@@ -54,3 +54,13 @@
 **ADMIN VISIT**
 
 <img src="img3.png">
+
+**DATABASE DESIGN**
+
+<img src="img7.png">
+
+<img src="img8.png">
+
+
+
+
