@@ -1,12 +1,8 @@
-Code Requirements
-
-Opencv(pip install opencv-python)
-
-Tkinter(Available in python)
-
-PIL (pip install Pillow)
-
-Pandas(pip install pandas)
+**Code Requirements**
+1. Opencv(pip install opencv-python)
+2. Tkinter(Available in python)
+3. PIL (pip install Pillow)
+4. Pandas(pip install pandas)
 
 
 What steps you have to follow??
