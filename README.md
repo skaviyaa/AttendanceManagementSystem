@@ -7,9 +7,9 @@
 **WHAT STEPS YOU HAVE TO FOLLOW??**
 
 1. Download my Repository
-2. Create a TrainingImage folder in a project.
-3. Open a AMS_Run.py and change the all paths with your system path
-4. Run AMS_Run.py.
+2. Create a Training Image folder in a project.
+3. Open a index.py and change the all paths with your system path
+4. Run index.py.
 
 
 **PROJECT STRUCTURE**
