@@ -62,5 +62,9 @@
 <img src="img8.png">
 
 
+**NOTES**
+It will requires high processing power(I have 8 GB RAM & 2GB GC)
 
+If you think it will recognise person just like humans, than leave it, its not possible.
 
+Noist image can reduce your accuracy so quality of image matter,
