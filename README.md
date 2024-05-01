@@ -35,4 +35,7 @@
 
 <img src="img5.png">
 
+**MANNUAL ATTENDANCE FILLIING IT**
+
+<img src="img2.png">
 
