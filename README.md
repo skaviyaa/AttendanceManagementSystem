@@ -27,17 +27,27 @@
 
 **BASIC UI**
 
+**HOME PAGE**
+
 <img src="img4.png">
 
 **WHEN IT'S RECOGNISE ME**
 
+**TAKE IMAGE**
+
 <img src="img6.png">
+
+**TRAINING IMAGE**
 
 <img src="img5.png">
 
 **MANNUAL ATTENDANCE FILLIING IT**
 
+**FILL ATTENDANCE**
+
 <img src="img2.png">
+
+**MANUAL ATTENDANCE**
 
 <img src="img9.png">
 
