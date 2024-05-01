@@ -26,4 +26,4 @@
 **SCREENSCHOTS**
 
 **BASIC UI**
-<img src="https://www://github.com/skaviya/AttendanceManagementSystemUsingFaceRecognition/master/img1.png">
+<img src="https://www://github.com/skaviyaa/AttendanceManagementSystem/master/img1.png">
