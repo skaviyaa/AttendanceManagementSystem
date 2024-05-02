@@ -1,7 +1,7 @@
 **SOURCERER**
 
 
-<img src="kaviss.png" height="50px" width="50px" alt=""/></a>
+<img src="kaviss.png" height="100px" width="100px" alt=""/>
 
 **CODE REQUIREMENTS**
 1. Opencv(pip install opencv-python)
